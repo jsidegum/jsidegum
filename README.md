@@ -1,13 +1,16 @@
-### Olá, meu nome é Juliana Sidegum 👋
+## Olá, eu sou a Juliana Sidegum! 👋
 
-- 🔭 Estou trabalhando na [Teclógica](https://www.teclogica.com.br/).
-- 🎓 Graduada em Sistemas de Informação na [Uniasselvi](https://portal.uniasselvi.com.br/).
-- 🎓 Certificada em **ReactJS** na [RocketSeat](https://www.rocketseat.com.br/).
-- 🎓 Cursando **Spring Boot + React JS** do professor [Dougllas Sousa](https://cursodsousa.github.io/).
-- 🌱 Constante aprendizado em ... 
-- [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,java&perline=4)](https://skillicons.dev)
-- 📫 Para me contatar...
-- <a href="https://www.linkedin.com/in/jsidegum" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 🔭 Atualmente estou trabalhando na [Teclógica](https://www.teclogica.com.br/).
+- 🎓 Sou graduada em Sistemas de Informação pela [Uniasselvi](https://portal.uniasselvi.com.br/).
+- 🎓 Possuo certificação em **ReactJS** pela [RocketSeat](https://www.rocketseat.com.br/).
+- 🎓 Atualmente estou cursando **Spring Boot + React JS** com o professor [Dougllas Sousa](https://cursodsousa.github.io/).
+- 🌱 Estou sempre em busca de aprendizado e crescimento profissional.
+- 💼 Tenho habilidades em:
 
+[![PL/SQL](https://img.shields.io/badge/PL/SQL-orange?logo=oracle&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)
+[![ReactJS](https://img.shields.io/badge/ReactJS-lightblue?logo=react&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)](#)
 
-
+Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/jsidegum).
