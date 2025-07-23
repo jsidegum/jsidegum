@@ -6,7 +6,6 @@
   - **ReactJS** pela [RocketSeat](https://www.rocketseat.com.br/).
   - **Spring Boot + React JS** com o professor [Dougllas Sousa](https://cursodsousa.github.io/).
   - **Java Programação Orientada a Objetos** do professor [Nélio Alves](https://www.udemy.com/user/nelio-alves/).
-- 🌱 Atualmente estou cursando **Android Completo: Java, Kotlin, Jetpack, Banco de dados, API, Firebase** do professor [Jamilton Damasceno](https://jamiltondamasceno.com.br/).
 - 💼 Tenho habilidades em:
 
 [![PL/SQL](https://img.shields.io/badge/PL/SQL-orange?logo=oracle&logoColor=white)](#)
